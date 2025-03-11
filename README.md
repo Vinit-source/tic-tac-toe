@@ -2,19 +2,18 @@
 
 ## How to Use & Contribute
 
-1. Fork the original repo on GitHub.
-2. Clone your fork to your local machine.
+1. **Fork:** Fork the original repo on GitHub.
+2. **Clone or download** your fork to your local machine.
 3. **Pick your interest area** to improve:
    - **Frontend**: Modify the `style.css` or the structure in `index.html`.
    - **Backend**: Integrate with a server (Node.js/Python/Java) to store game state or create multiplayer logic.
    - **AI**: In `app.js`, add code for the AI to make a move after each user turn.
    - **UI/UX**: Animate the board, highlight winners, or improve the layout and accessibility.
-3. Create a new feature branch to make changes to your code. *Follow this naming convention to name your branch (feature/frontend-react-integration, feature/backend-leaderboards,
+3. **Create a new feature branch** to make changes to your code. Follow this naming convention to name your branch: `feature/<area>-<improvement>` (*for eg. feature/frontend-react-integration, feature/backend-leaderboards,
 feature/ai-minimax, 
-feature/ui-confetti)* 
-4. Develop your changes, then commit and push to your fork’s branch.
-5. Open a Pull Request from your branch in your fork to the desired branch in the original repo.
-5. Review & Merge: The original repo’s maintainers will review and merge your branch as appropriate.
+feature/ui-confetti*) 
+4. **Develop** your changes, then **commit** and **push** to your fork’s branch.
+5. **Open a Pull Request** from your branch in your fork to the desired branch in the original repo. **Request to create a remote branch** on the Discord.
 
 ---
 
